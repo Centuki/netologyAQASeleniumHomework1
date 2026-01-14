@@ -1,1 +1,1 @@
-[![Java CI with Gradle](https://github.com/ВАШ_USERNAME/ВАШ_РЕПОЗИТОРИЙ/actions/workflows/gradle.yml/badge.svg)](https://github.com/netologyAQASeleniumHomework1/actions/workflows/gradle.yml)
+[![Build Status](https://travis-ci.org/username/repo.svg?branch=main)](https://travis-ci.org/username/repo)
